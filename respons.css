@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media (max-width:1295px){
+    .vl hr {
+        margin-top: 30px;
+        width: 23%;
+    }
+    .infoaboutl {
+        margin-right: -325px;
+    }
+}
+@media (max-width:1170px){ 
+     .vl hr {
+        margin-top: 30px;
+    width: 26%;
+}
+.infoaboutl {
+    margin-right: -300px;
+}
+}
+@media (max-width:1060px){ 
+    .vl hr {
+            margin-top: 21px;
+            width: 30%;
+        }
+.infoaboutl {
+   margin-right: -285px;
+}
+}
+@media (max-width:1040px){ 
+    .vl hr {
+        margin-top: 0px;
+        width: 32%;
+        }
+.infoaboutl {
+   margin-right: -280px;
+}
+}
+@media (max-width:970px){
+    .infoabout {
+        width: 60%;
+        margin-left: 50px;
+    }
+    .lorempara {
+      padding-left: 0px; 
+    }
+    .infoabout {
+        text-align: left;
+        margin-left: 60px;
+    }
+    .imgabout {
+        position: absolute;
+        width: 20%;
+        left: 7%;
+    }
+    .firstglobe {
+        justify-content: center;
+    }
+    .infoaboutl {
+        width: 60%;
+        margin-left: 40px;
+        margin-right: 0px;
+    }
+    .vl{
+        display: none;
+    }
+    .logoimg{
+        width: 22%;
+    }
+    .teambox{
+        width: 31%;
+    }
+    .nameteam{
+        font-size: 23px;
+    }
+}
+@media (max-width:760px){
+    .nameteam{
+        font-size: 20px;
+    }
+}
+@media (max-width:715px){
+    .topsection1 {
+        display: block;
+        justify-content: center;
+    }
+    .startbootstrap {
+        height: 35px;
+        margin-bottom: 20px;
+    }
+    .midsection2 {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .servicedata {
+        width: 100%;
+    }
+    .imagesportfolio {
+        flex-direction: column;
+    }
+    .boxdata {
+        width: 100%;
+    }
+    .imagesteam {
+        flex-direction: column;
+    }
+    .teambox {
+        width: 100%;
+    }
+    .teamimg {
+        height: 450px;
+    }
+.logosall {
+    flex-direction: column;
+}
+.logoimg {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+}
+@media (max-width:520px){
+    .navbarsection1{
+        display: none;
+    }
+    #shows{
+        display: block;
+    }
+    .all {
+        flex-direction: column;
+    }
+    .copy {
+        display: flex;
+        margin-bottom: 16px;
+        justify-content: center;
+}
+.privacy{
+    margin-top: 16px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+.imgabout {
+    width: 25%;
+    left: 4%;
+}
+.teamimg {
+    height: 325px;
+}
+.inputdata {
+    flex-direction: column;
+}
+.left{
+    width: 100%;
+}
+.right{
+    width: 100%;
+}
